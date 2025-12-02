@@ -12,7 +12,7 @@ With a strong background in sales analytics, CRM systems, and client relationshi
 - 📍 Based in Chicago, IL  
 - 🎓 Master’s Degree in Ecology-Engineering, National University “Lviv Polytechnic”, Ukraine  
 - 🎓 Completed Business Analyst Internship (Agile, SDLC, Use Cases, Business Requirements, Process Diagrams)  
-- 💡 Certified in Marketing, Social Media, and Digital Advertising (Meta Coursera)  
+- 💡 Certified in Marketing, Social Media, and Digital Advertising (Meta Coursera),SQL foundation from Microfost office Coursera, IBM Business Analyst Coursera  
 - 🌐 Multilingual: English, Ukrainian, Polish, Russian  
 
 ---
@@ -32,7 +32,7 @@ With a strong background in sales analytics, CRM systems, and client relationshi
 
 **Analytics & Data:** Excel, Power BI, SQL  
 **Business Analysis:** BPMN, Use Cases, SDLC, Agile (Scrum, Kanban)  
-**Tools:** Jira, Confluence, HubSpot, QuickBooks, Miro  
+**Tools:** Jira, Confluence, HubSpot, QuickBooks, Miro, Tableau  
 **Marketing & Reporting:** Social Media Analytics, Campaign Tracking  
 **Documentation:** Notion, Google Workspace, Markdown  
 
